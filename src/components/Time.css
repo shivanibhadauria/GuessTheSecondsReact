@@ -1,0 +1,22 @@
+.challanges{
+
+
+    background-color: aquamarine;
+    color: black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    gap: 20px;
+}
+
+.time-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+background-color: paleturquoise;
+margin: 10px;
+}
